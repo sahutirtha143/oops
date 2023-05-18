@@ -14,6 +14,6 @@ int main()
         }
     }
     cout<<"Factorial of the number is: "<<fact;
-    cout<<" HEllo guys: ";
+    cout<<" HELLO GUYS::::: ";
     return 0;
 }
